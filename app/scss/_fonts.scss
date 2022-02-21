@@ -22,7 +22,7 @@
   [class^="icon-"], [class*=" icon-"] {
     /* use !important to prevent issues with browser extensions that change fonts */
     font-family: 'icomoon' !important;
-    speak: never;
+    // speak: never;
     font-style: normal;
     font-weight: normal;
     font-variant: normal;
@@ -157,4 +157,15 @@
   .icon-yen:before {
     content: "\f157";
   }
-  
+  .icon-sort-amount-desc:before {
+    content: "\f161";
+  }
+  .icon-foursquare:before {
+    content: "\f180";
+  }
+  .icon-pagelines:before {
+    content: "\f18c";
+  }
+  .c:before {
+    content: "\f231";
+  }
